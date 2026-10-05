@@ -5,6 +5,7 @@
 // @description  Exports the current regular ChatGPT conversation as enriched raw JSON.
 // @match        https://chatgpt.com/*
 // @downloadURL  https://raw.githubusercontent.com/christian3107/chatgpt-exporter/main/ChatGPT%20Exporter.user.js
+// @updateURL    https://raw.githubusercontent.com/christian3107/chatgpt-exporter/main/ChatGPT%20Exporter.user.js
 // @icon         https://icons.duckduckgo.com/ip3/chatgpt.com.ico
 // @grant        GM_addStyle
 // @run-at       document-idle
