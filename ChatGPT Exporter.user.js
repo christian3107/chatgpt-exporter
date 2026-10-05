@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
+    'use strict'; // Test
 
     // ============================================================
     // CONFIGURATION
