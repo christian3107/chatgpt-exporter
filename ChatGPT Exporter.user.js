@@ -18,7 +18,7 @@
     // CONFIGURATION
     // ============================================================
 
-    const EXPORTER_VERSION = '2.1.1';
+    const EXPORTER_VERSION = '2.1.2';
     const EXPORT_BUTTON_ID = 'chatgpt-json-export-9f7c2e41';
 
     const HEADER_BUTTONS_SELECTOR =
