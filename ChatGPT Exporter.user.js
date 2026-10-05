@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT Exporter
 // @namespace    chatgpt-web-conversation-json-exporter
-// @version      2.1.1
+// @version      2.1.1a
 // @description  Exports the current regular ChatGPT conversation as enriched raw JSON.
 // @match        https://chatgpt.com/*
 // @updateURL    https://raw.githubusercontent.com/christian3107/chatgpt-exporter/main/ChatGPT%20Exporter.user.js
