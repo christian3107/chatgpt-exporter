@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         ChatGPT Exporter
 // @namespace    chatgpt-web-conversation-json-exporter
-// @version      2.1.3
+// @version      2.1.4
 // @description  Exports the current regular ChatGPT conversation as enriched raw JSON.
 // @match        https://chatgpt.com/*
-// @updateURL    https://raw.githubusercontent.com/christian3107/chatgpt-exporter/main/ChatGPT%20Exporter.user.js
 // @downloadURL  https://raw.githubusercontent.com/christian3107/chatgpt-exporter/main/ChatGPT%20Exporter.user.js
 // @icon         https://icons.duckduckgo.com/ip3/chatgpt.com.ico
 // @grant        GM_addStyle
@@ -18,7 +17,7 @@
     // CONFIGURATION
     // ============================================================
 
-    const EXPORTER_VERSION = '2.1.3';
+    const EXPORTER_VERSION = '2.1.4';
     const EXPORT_BUTTON_ID = 'chatgpt-json-export-9f7c2e41';
 
     const HEADER_BUTTONS_SELECTOR =
